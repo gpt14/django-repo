@@ -82,7 +82,7 @@ DATABASES = {
         # If you are using Cloud SQL for MySQL rather than PostgreSQL, set
         # 'ENGINE': 'django.db.backends.mysql' instead of the following.
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'polls',
+        'NAME': 'postgres',
         'USER': 'postgres',
         'PASSWORD': 'password',
         'HOST': 'postgres-django-postgresql.devtron-demo',
