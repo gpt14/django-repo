@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'postgres',
         'USER': 'postgres',
         'PASSWORD': 'password',
-        'HOST': 'postgres-django-postgresql.devtron-demo',
+        'HOST': 'portgres-demo-postgresql.dev',
         'PORT': '5432',
     }
 }
